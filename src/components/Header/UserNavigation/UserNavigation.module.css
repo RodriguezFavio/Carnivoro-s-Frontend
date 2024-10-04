@@ -1,0 +1,6 @@
+.nav {
+  display: flex;
+  width: 8rem;
+  align-items: center;
+  gap: 10px;
+}
